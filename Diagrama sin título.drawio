@@ -1,9 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="fdVoDN7rhXN5hreNu0T4">
-    <mxGraphModel>
+    <mxGraphModel dx="8650" dy="4972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-1" value="&lt;font color=&quot;#031e8b&quot;&gt;RACK:&lt;/font&gt;&amp;nbsp;Nombre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=66;fontStyle=1;expand=0;recursiveResize=0;allowArrows=0;connectable=0;movable=1;resizable=0;rotatable=0;cloneable=0;deletable=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="-4231" width="965" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-2" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot; color=&quot;#031e8b&quot;&gt;EQUIPOS&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=66;fontStyle=1;expand=0;recursiveResize=0;allowArrows=0;connectable=0;movable=1;resizable=0;rotatable=0;cloneable=0;deletable=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="-4316" width="965" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-3" value="&lt;font style=&quot;font-size: 50px;&quot; color=&quot;#031e8b&quot;&gt;No. Equipos:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=66;fontStyle=1;expand=0;recursiveResize=0;allowArrows=0;connectable=0;movable=1;resizable=0;rotatable=0;cloneable=0;deletable=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-4960" y="-4068" width="965" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-4" value="FAC6" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;startSize=30;connectable=1;allowArrows=0;resizable=1;movable=1;rotatable=1;cloneable=0;deletable=1;pointerEvents=0;editable=1;locked=0;" vertex="1" parent="1">
+          <mxGeometry x="-7040" y="-3880" width="2660" height="1370" as="geometry">
+            <mxRectangle x="-7280" y="-4237.5" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-5" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Historial&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-4400" y="-2450" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;No. versión:1.1.1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="acZJ7TmGlcCDPs-0qSZk-5">
+          <mxGeometry y="30" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-7" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Fecha: 25/09/2024&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="acZJ7TmGlcCDPs-0qSZk-5">
+          <mxGeometry y="70" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acZJ7TmGlcCDPs-0qSZk-8" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Autor: Fernanda Jl&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="acZJ7TmGlcCDPs-0qSZk-5">
+          <mxGeometry y="110" width="300" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
